@@ -1,5 +1,6 @@
 h1{
-	color: #BFDBF7;
+	color: #1F7A8C
+	;
 	text-align: center;
 }
 
@@ -16,4 +17,8 @@ body{
 
 img{
 	display: inline-block;
+}
+
+body {
+	background-color: #AED9E0;
 }
